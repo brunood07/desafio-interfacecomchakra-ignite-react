@@ -141,7 +141,7 @@ export default function Continent({ cities, continent }: ContinentPageProps) {
                   bg="dark.500"
                   label="As cidades +100 são as cidades que aquele continente possui que estão entre as 100 cidades mais visitadas do mundo."
                 >
-                  <Image src="Info.svg" ml="5px" alt="imagem de informação" />
+                  <Image src="Info.svg" ml="5px" alt="" />
                 </Tooltip>
               </Text>
             </Flex>
